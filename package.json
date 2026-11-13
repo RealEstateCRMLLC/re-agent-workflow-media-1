@@ -1,6 +1,6 @@
 {
   "name": "app",
-  "version": "2.16.0",
+  "version": "2.16.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/candlestixxx/re-agent-workflow-media-1.git"
+    "url": "git+https://github.com/RealEstateCRMLLC/re-agent-workflow-media-1.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/candlestixxx/re-agent-workflow-media-1/issues"
+    "url": "https://github.com/RealEstateCRMLLC/re-agent-workflow-media-1/issues"
   },
-  "homepage": "https://github.com/candlestixxx/re-agent-workflow-media-1#readme",
+  "homepage": "https://github.com/RealEstateCRMLLC/re-agent-workflow-media-1#readme",
   "devDependencies": {
     "@types/express": "^5.0.6",
     "@types/jest": "^30.0.0",
